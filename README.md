@@ -1,4 +1,4 @@
-![Header](./resources/header.png)
+
 <p align="center">
     <img src="https://cdn.discordapp.com/avatars/619461914623475712/a_dd75e2cbe5ebfc02273a11d055c77431.gif?size=1024?width=115&height=115" width="100">
 </p>
