@@ -18,3 +18,4 @@
     <a href="https://discord.gg/pVhTS3mjrh" title="Discord"><img src="https://media.discordapp.net/attachments/959535131612287026/964710091259523082/unknown.png?width=473&height=473" width="100"></a>
 </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/767482070838018058)](https://discord.com/users/767482070838018058)
